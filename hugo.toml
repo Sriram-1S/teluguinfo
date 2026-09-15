@@ -1,3 +1,35 @@
-baseURL = 'https://example.org/'
-locale = 'en-us'
-title = 'My New Hugo Project'
+baseURL = "https://teluguinfo.in/"
+languageCode = "te"
+title = "TeluguInfo"
+theme = "PaperMod"
+
+paginate = 10
+
+[params]
+  env = "production"
+  defaultTheme = "auto"
+  ShowReadingTime = true
+  ShowShareButtons = true
+  ShowPostNavLinks = true
+  ShowBreadCrumbs = true
+  ShowCodeCopyButtons = false
+  ShowRssButtonInSectionTermList = true
+  ShowToc = true
+
+[[menu.main]]
+  identifier = "schemes"
+  name = "Govt Schemes"
+  url = "/schemes/"
+  weight = 10
+
+[[menu.main]]
+  identifier = "news"
+  name = "News"
+  url = "/news/"
+  weight = 20
+
+[[menu.main]]
+  identifier = "agriculture"
+  name = "Agriculture"
+  url = "/agriculture/"
+  weight = 30
