@@ -33,3 +33,15 @@ paginate = 10
   name = "Agriculture"
   url = "/agriculture/"
   weight = 30
+
+  [[menu.main]]
+  identifier = "about"
+  name = "About"
+  url = "/about/"
+  weight = 40
+
+[[menu.main]]
+  identifier = "contact"
+  name = "Contact"
+  url = "/contact/"
+  weight = 50
