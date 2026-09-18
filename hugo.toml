@@ -4,9 +4,12 @@ title = "TeluguInfo"
 theme = "PaperMod"
 
 paginate = 10
+enableRobotsTXT = true
 
 [params]
   env = "production"
+  description = "ఆంధ్రప్రదేశ్ మరియు కేంద్ర ప్రభుత్వ పథకాలు, దరఖాస్తు విధానం, వ్యవసాయ సమాచారం, ప్రభుత్వ ప్రకటనలు — సులభమైన తెలుగులో."
+  author = "మధు"
   defaultTheme = "auto"
   ShowReadingTime = true
   ShowShareButtons = true
@@ -15,6 +18,12 @@ paginate = 10
   ShowCodeCopyButtons = false
   ShowRssButtonInSectionTermList = true
   ShowToc = true
+
+ 
+
+  [[params.socialIcons]]
+    name = "whatsapp"
+    url = "https://whatsapp.com/channel/0029VbCOvZq1dAw0grhjJ10p"
 
 [[menu.main]]
   identifier = "schemes"
@@ -34,7 +43,7 @@ paginate = 10
   url = "/agriculture/"
   weight = 30
 
-  [[menu.main]]
+[[menu.main]]
   identifier = "about"
   name = "About"
   url = "/about/"
