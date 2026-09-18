@@ -10,9 +10,9 @@ title = 'Privacy Policy'
 
 ## Google AdSense మరియు కుకీలు (Cookies)
 
-- భవిష్యత్తులో ఈ సైట్‌లో Google AdSense ద్వారా ప్రకటనలు కనిపించవచ్చు
-- Google మరియు దాని భాగస్వాములు కుకీలు వాడి, మీ గత సందర్శనల ఆధారంగా ప్రకటనలు చూపించవచ్చు
-- మీరు [Google Ads Settings](https://adssettings.google.com/) ద్వారా వ్యక్తిగతీకరించిన (personalized) ప్రకటనలను ఆఫ్ చేసుకోవచ్చు
+- భవిష్యత్తులో ఈ సైట్‌లో Google AdSense ద్వారా ప్రకటనలు కనిపించవచ్చు.
+- Google మరియు దాని భాగస్వాములు కుకీలు వాడి, మీ గత సందర్శనల ఆధారంగా ప్రకటనలు చూపించవచ్చు.
+- మీరు [Google Ads Settings](https://adssettings.google.com/) ద్వారా వ్యక్తిగతీకరించిన (personalized) ప్రకటనలను ఆఫ్ చేసుకోవచ్చు.
 
 ## మీ హక్కులు
 
