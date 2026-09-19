@@ -26,6 +26,9 @@ enableRobotsTXT = true
   [[params.socialIcons]]
     name = "whatsapp"
     url = "https://whatsapp.com/channel/0029VbCOvZq1dAw0grhjJ10p"
+    
+    [params.footer]
+  text = "[Privacy Policy](/privacy-policy/) · [Terms & Conditions](/terms-and-conditions/)"
 
 [[menu.main]]
   identifier = "schemes"
