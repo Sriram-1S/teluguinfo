@@ -1,0 +1,58 @@
+/* Info box - సాధారణ ముఖ్య సమాచారం */
+.info-box {
+  background: #eef6fb;
+  border-left: 4px solid #2196F3;
+  padding: 14px 18px;
+  margin: 16px 0;
+  border-radius: 6px;
+}
+
+/* Warning box - disclaimer/జాగ్రత్త కోసం */
+.warning-box {
+  background: #fff8e1;
+  border-left: 4px solid #ff9800;
+  padding: 14px 18px;
+  margin: 16px 0;
+  border-radius: 6px;
+}
+
+/* Table wrapper - mobile scroll కోసం */
+.table-wrap {
+  overflow-x: auto;
+  margin: 16px 0;
+}
+.table-wrap table {
+  width: 100%;
+  border-collapse: collapse;
+}
+.table-wrap th, .table-wrap td {
+  border: 1px solid var(--border, #333);
+  padding: 8px 12px;
+  text-align: left;
+}
+
+/* Step-by-step procedure */
+.steps {
+  counter-reset: step-counter;
+  list-style: none;
+  padding-left: 0;
+}
+.steps li {
+  counter-increment: step-counter;
+  position: relative;
+  padding: 10px 10px 10px 44px;
+  margin-bottom: 8px;
+  background: var(--entry, #2e2e33);
+  border-radius: 6px;
+}
+.steps li::before {
+  content: counter(step-counter);
+  position: absolute;
+  left: 10px; top: 10px;
+  background: #2196F3;
+  color: #fff;
+  width: 24px; height: 24px;
+  border-radius: 50%;
+  display: flex; align-items: center; justify-content: center;
+  font-size: 13px; font-weight: bold;
+}
