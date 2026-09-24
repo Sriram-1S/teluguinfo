@@ -56,3 +56,53 @@
   display: flex; align-items: center; justify-content: center;
   font-size: 13px; font-weight: bold;
 }
+
+.follow-box {
+  background: linear-gradient(135deg, #0f172a 0%, #1e293b 100%);
+  border-radius: 14px;
+  padding: 22px 24px;
+  margin: 16px 0 28px;
+  text-align: center;
+}
+.follow-box .label {
+  color: #94a3b8;
+  font-size: 13px;
+  letter-spacing: 0.05em;
+  text-transform: uppercase;
+  font-weight: 600;
+  margin: 0 0 14px;
+}
+.follow-box .btn-row {
+  display: flex;
+  gap: 12px;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+.follow-box .whatsapp-btn, .follow-box .telegram-btn {
+  flex: 1;
+  min-width: 180px;
+  max-width: 240px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 10px;
+  border-radius: 12px;
+  padding: 14px 20px;
+  text-decoration: none;
+  color: #ffffff;
+  font-weight: 700;
+  font-size: 15px;
+}
+.follow-box .whatsapp-btn {
+  background: linear-gradient(135deg, #25d366 0%, #128c7e 100%);
+}
+.follow-box .telegram-btn {
+  background: linear-gradient(135deg, #229ed9 0%, #1a7fc1 100%);
+}
+.follow-box .sub-text {
+  color: #64748b;
+  font-size: 12px;
+  margin: 12px 0 0;
+}
+
+
