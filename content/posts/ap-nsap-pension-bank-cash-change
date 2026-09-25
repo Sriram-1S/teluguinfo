@@ -4,6 +4,9 @@ date = 2026-09-24
 description = "ఎన్టీఆర్ భరోసా పింఛన్లలో NSAP పరిధిలోని 9.34 లక్షల మందికి అక్టోబర్ 1 నుంచి కేంద్ర వాటా బ్యాంకు ఖాతాలో జమ అవుతుంది. ఎవరికి వర్తిస్తుంది, ఎంత జమ అవుతుంది, ఏం చేయాలో తెలుసుకోండి."
 author = "మధు"
 categories = ["Govt Schemes"]
+[cover]
+  image = "images/ap-nsap-pension-cover.jpg"
+  alt = "NSAP పింఛన్ల పంపిణీ మార్పు - బ్యాంకు, నగదు విధానం"
 tags = ["NTR Bharosa", "NSAP", "AP Pension", "SNA-SPARSH"]
 +++
 
