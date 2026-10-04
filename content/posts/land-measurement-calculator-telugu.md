@@ -1,5 +1,5 @@
 +++
-title = "భూమి కొలతల కాలిక్యులేటర్ (Land Calculator) – Acres to Cents, Sq Ft to Sq Yards"
+title = "భూమి కొలతల కాలిక్యులేటర్ (Land Calculator) – Acres to Cents or Hectare, Sq Ft to Sq Yards"
 date = 2026-10-04T10:00:00+05:30
 draft = false
 slug = "land-measurement-calculator-telugu"
