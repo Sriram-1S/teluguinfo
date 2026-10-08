@@ -5,9 +5,12 @@ draft = false
 description = "AP Income Certificate download ఎలా? AP Seva Portal, MeeSeva, WhatsApp Mana Mitra లో లాగిన్ లేకుండా, లాగిన్‌తో డౌన్‌లోడ్ చేసే పద్ధతులు స్టెప్ బై స్టెప్."
 author = "మధు"
 categories = ["Govt Schemes"]
-[cover] image = "images/income-certificate-download-ap.jpg" alt = "AP Income Certificate download ఎలా"
 
+[cover]
+  image = "images/income-certificate-download-ap.jpg"
+  alt = "AP Income Certificate download ఎలా"
 +++
+
 **Income Certificate అంటే ఏమిటి?** ఇన్‌కమ్ సర్టిఫికెట్ (ఆదాయ ధ్రువీకరణ పత్రం) అంటే ఒక కుటుంబం లేదా వ్యక్తి సంవత్సరానికి ఎంత ఆదాయం పొందుతున్నారో రెవెన్యూ శాఖ అధికారికంగా ధృవీకరించే పత్రం. స్కాలర్‌షిప్‌లు, ఫీజు రీయింబర్స్‌మెంట్, కొన్ని ప్రభుత్వ పథకాలు, విద్యా సంస్థల్లో ప్రవేశాల సమయంలో ఇది అడుగుతారు. ఎక్కడ ఎంత కాలం చెల్లుతుందనేది వాడే పథకం లేదా సంస్థ నిబంధనలపై ఆధారపడి ఉంటుంది, కాబట్టి అవసరమైన చోట ఒకసారి అడిగి తెలుసుకోండి.
 
 ఇన్‌కమ్ సర్టిఫికెట్ అప్లై చేశాక అది అప్రూవ్ అయిందో లేదో, ఎక్కడ నుంచి డౌన్‌లోడ్ చేసుకోవాలో చాలామందికి తెలియదు. కొందరు సచివాలయంలో అప్లై చేస్తారు, కొందరు MeeSeva లో, ఇప్పుడు WhatsApp Mana Mitra లో కూడా అప్లై చేసుకోవచ్చు. అందుకే "AP Seva portal లో చూడాలా, MeeSeva లో చూడాలా?" అనే సందేహం వస్తుంది.
@@ -41,7 +44,6 @@ categories = ["Govt Schemes"]
 
 ![AP Seva Portal హోమ్ పేజీ – Aadhaar, Preview Certificate, Service Request Status ఆప్షన్లు](/images/ap-seva-portal-home-page.jpg)
 
-
 AP Seva Portal హోమ్ పేజీ (apseva.ap.gov.in) లో లాగిన్ లేకుండా మూడు ఆప్షన్లు కనిపిస్తాయి:
 
 1. **Enter your Aadhaar** – Aadhaar నంబర్ ఇచ్చి, captcha ఎంటర్ చేస్తే ఆ Aadhaar తో AP Seva లో అప్లై చేసిన అన్ని ట్రాన్సాక్షన్లు కనిపిస్తాయి.
@@ -60,7 +62,6 @@ AP Seva Portal హోమ్ పేజీ (apseva.ap.gov.in) లో లాగి�
 
 ![MeeSeva Portal హోమ్ పేజీ – Check Your Application Status, Preview MeeSeva Certificate, Find Your Service ఆప్షన్లు](/images/meeseva-portal-home-page.jpg)
 
-
 MeeSeva హోమ్ పేజీ (ap.meeseva.gov.in) లో కూడా లాగిన్ లేకుండా మూడు ఆప్షన్లు ఉన్నాయి:
 
 1. **Check Your Application Status**
@@ -78,8 +79,6 @@ MeeSeva హోమ్ పేజీ (ap.meeseva.gov.in) లో కూడా లా
 అయితే ఒక పోర్టల్‌లో అప్లై చేసిన సర్టిఫికెట్ మరో పోర్టల్‌లో కనిపిస్తుందో లేదో నేను ఖచ్చితంగా చెప్పలేను. అందుకే మీరు ఏ పోర్టల్‌లో అప్లై చేశారో, ముందు అక్కడే వెతకండి.
 
 ## 3. WhatsApp Mana Mitra ద్వారా డౌన్‌లోడ్ (Reissue)
-
-
 
 ఇన్‌కమ్ సర్టిఫికెట్ పోయినా లేదా మళ్లీ కాపీ కావాలన్నా Mana Mitra లో Reissue ఆప్షన్ ద్వారా పొందవచ్చు. కొత్త ఆదేశాల ప్రకారం ఈ సేవ ఇకపై Mana Mitra లోనే అందుతుంది. దాని గురించి వివరాలు [ఈ పోస్టులో](/whatsapp-mana-mitra-four-revenue-services/) చదవండి.
 
