@@ -15,7 +15,7 @@ categories = ["Govt Schemes"]
 
 ఇన్‌కమ్ సర్టిఫికెట్ అప్లై చేశాక అది అప్రూవ్ అయిందో లేదో, ఎక్కడ నుంచి డౌన్‌లోడ్ చేసుకోవాలో చాలామందికి తెలియదు. కొందరు సచివాలయంలో అప్లై చేస్తారు, కొందరు MeeSeva లో, ఇప్పుడు WhatsApp Mana Mitra లో కూడా అప్లై చేసుకోవచ్చు. అందుకే "AP Seva portal లో చూడాలా, MeeSeva లో చూడాలా?" అనే సందేహం వస్తుంది.
 
-ఈ పోస్టులో **AP Seva Portal**, **MeeSeva**, **WhatsApp Mana Mitra** – ఈ మూడింటిలో Income Certificate ఎలా డౌన్‌లోడ్ చేసుకోవాలో నేను చూసినట్లుగా వివరిస్తున్నాను.
+ఈ పోస్టులో **AP Seva Portal**, **MeeSeva**, **WhatsApp Mana Mitra** – ఈ మూడింటిలో Income Certificate ఎలా డౌన్‌లోడ్ చేసుకోవాలో వివరించబడింది.
 
 <div class="info-box">
 
@@ -24,7 +24,7 @@ categories = ["Govt Schemes"]
 - AP Seva Portal (apseva.ap.gov.in), MeeSeva Portal (ap.meeseva.gov.in) **రెండూ వేర్వేరు వెబ్‌సైట్లు.**
 - రెండింటిలోనూ హోమ్ పేజీలో **లాగిన్ లేకుండానే** స్టేటస్ చూడటం, సర్టిఫికెట్ ప్రివ్యూ చేయడం వంటి ఆప్షన్లు ఉన్నాయి.
 - లాగిన్ చేస్తే మీ పాత దరఖాస్తుల చరిత్ర (Transactions) కనిపిస్తుంది, అక్కడి నుంచి కూడా డౌన్‌లోడ్ చేసుకోవచ్చు.
-- సచివాలయంలో అప్లై చేసినవారికి సరైన WhatsApp నంబర్ ఇస్తే, అప్రూవ్ అయిన సర్టిఫికెట్ ఆ నంబర్‌కే వస్తుంది.
+- AP Seva Portal లో అయిన లేదా MeeSeva Portal అప్లై చేస్తున్నప్పుడు సరైన WhatsApp నంబర్ ఇస్తే, అప్రూవ్ అయిన సర్టిఫికెట్ ఆ నంబర్‌కే WhatsApp లో వస్తుంది.
 
 </div>
 
@@ -34,8 +34,8 @@ categories = ["Govt Schemes"]
 
 | మార్గం | లాగిన్ లేకుండా | లాగిన్‌తో |
 |---|---|---|
-| **AP Seva Portal** (apseva.ap.gov.in) | Aadhaar ఎంటర్ చేయడం, Preview AP Seva Certificate, Service Request Status | Transactions లో చరిత్ర, డౌన్‌లోడ్ |
-| **MeeSeva Portal** (ap.meeseva.gov.in) | Check Your Application Status, Preview MeeSeva Certificate, Find Your Service | Transactions లో చరిత్ర, డౌన్‌లోడ్ |
+| **AP Seva Portal** (apseva.ap.gov.in) | Aadhaar ఎంటర్ చేయడం, Preview AP Seva Certificate, Service Request Status | Transactions లో History, డౌన్‌లోడ్ |
+| **MeeSeva Portal** (ap.meeseva.gov.in) | Check Your Application Status, Preview MeeSeva Certificate, Find Your Service | Transactions లో History, డౌన్‌లోడ్ |
 | **WhatsApp Mana Mitra** (9552300009) | చాట్‌లోనే Reissue ద్వారా డౌన్‌లోడ్ | – |
 
 </div>
@@ -76,11 +76,11 @@ MeeSeva హోమ్ పేజీ (ap.meeseva.gov.in) లో కూడా లా
 
 </div>
 
-అయితే ఒక పోర్టల్‌లో అప్లై చేసిన సర్టిఫికెట్ మరో పోర్టల్‌లో కనిపిస్తుందో లేదో నేను ఖచ్చితంగా చెప్పలేను. అందుకే మీరు ఏ పోర్టల్‌లో అప్లై చేశారో, ముందు అక్కడే వెతకండి.
+అయితే ఒక పోర్టల్‌లో అప్లై చేసిన సర్టిఫికెట్ మరో పోర్టల్‌లో కనిపిస్తుందో లేదో ఖచ్చితంగా చెప్పలేము. అందుకే మీరు ఏ పోర్టల్‌లో అప్లై చేశారో, ముందు అక్కడే వెతకండి.
 
 ## 3. WhatsApp Mana Mitra ద్వారా డౌన్‌లోడ్ (Reissue)
 
-ఇన్‌కమ్ సర్టిఫికెట్ పోయినా లేదా మళ్లీ కాపీ కావాలన్నా Mana Mitra లో Reissue ఆప్షన్ ద్వారా పొందవచ్చు. కొత్త ఆదేశాల ప్రకారం ఈ సేవ ఇకపై Mana Mitra లోనే అందుతుంది. దాని గురించి వివరాలు [ఈ పోస్టులో](/whatsapp-mana-mitra-four-revenue-services/) చదవండి.
+ఇన్‌కమ్ సర్టిఫికెట్ పోయినా లేదా మళ్లీ కాపీ కావాలన్నా Mana Mitra లో Reissue ఆప్షన్ ద్వారా పొందవచ్చు. కొత్త ఆదేశాల ప్రకారం ఈ సేవ ఇకపై Mana Mitra లోనే అందుతుంది.
 
 <ol class="steps">
 <li>WhatsApp లో <strong>9552300009</strong> నంబర్‌కు <strong>Hi</strong> అని పంపండి.</li>
@@ -91,18 +91,18 @@ MeeSeva హోమ్ పేజీ (ap.meeseva.gov.in) లో కూడా లా
 <li><strong>Preview</strong> లో సర్టిఫికెట్ చూసి, ఆ తర్వాత <strong>Download</strong> చేసుకోండి.</li>
 </ol>
 
-## సచివాలయంలో అప్లై చేసినవారికి ఒక చిట్కా
+## Online లో అప్లై చేసినవారికి ఒక చిట్కా
 
-సచివాలయ ఉద్యోగి ద్వారా అప్లై చేసేటప్పుడు మీ **సరైన WhatsApp నంబర్** ఇవ్వండి. సర్టిఫికెట్ అప్రూవ్ అయ్యాక అది ఆ నంబర్‌కే WhatsApp లో వస్తుంది. అదే నంబర్‌తో తర్వాత Mana Mitra ద్వారా Reissue కూడా చేసుకోవచ్చు. తప్పు నంబర్ ఇస్తే ఈ సౌకర్యం మీకు అందదు.
+Online లో అప్లై చేసేటప్పుడు మీ **సరైన WhatsApp నంబర్** ఇవ్వండి. సర్టిఫికెట్ అప్రూవ్ అయ్యాక అది ఆ నంబర్‌కే WhatsApp లో వస్తుంది. అదే నంబర్‌తో తర్వాత Mana Mitra ద్వారా Reissue కూడా చేసుకోవచ్చు. తప్పు నంబర్ ఇస్తే ఈ సౌకర్యం మీకు అందదు.
 
 ## డౌన్‌లోడ్ తర్వాత జాగ్రత్తలు
 
 <div class="warning-box">
 
-- పోర్టల్ URL సరిగా ఉందో చూసుకోండి: **apseva.ap.gov.in** మరియు **ap.meeseva.gov.in**. ఇలాంటి పేర్లతో వచ్చే ఇతర సైట్లలో Aadhaar నంబర్ ఇవ్వవద్దు.
+- పోర్టల్ URL సరిగా ఉందో లేదో చూసుకోండి: **apseva.ap.gov.in** మరియు **ap.meeseva.gov.in**. ఇలాంటి పేర్లతో వచ్చే ఇతర సైట్లలో Aadhaar నంబర్ ఇవ్వవద్దు.
 - OTP, UPI PIN ఎవరికీ చెప్పవద్దు.
-- సర్టిఫికెట్‌లో పేరు, చిరునామా, ఆదాయ వివరాలు సరిగా ఉన్నాయో ఒకసారి చూసుకోండి.
-- సర్టిఫికెట్ ఉన్న QR కోడ్ స్కాన్ చేసి, వివరాలు అధికారిక సైట్‌లో కనిపిస్తున్నాయో చూడండి.
+- సర్టిఫికెట్‌లో పేరు, చిరునామా, ఆదాయ వివరాలు సరిగా ఉన్నాయో లేదో ఒకసారి చూసుకోండి.
+- సర్టిఫికెట్ ఉన్న QR కోడ్ స్కాన్ చేసి, వివరాలు అధికారిక సైట్‌లో కనిపిస్తున్నాయో లేదో చూడండి.
 - WhatsApp లో సేవల కోసం **9552300009** అధికారిక నంబర్ మాత్రమే వాడండి.
 
 </div>
