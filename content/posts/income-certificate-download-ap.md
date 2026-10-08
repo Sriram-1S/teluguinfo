@@ -5,10 +5,11 @@ draft = false
 description = "AP Income Certificate download ఎలా? AP Seva Portal, MeeSeva, WhatsApp Mana Mitra లో లాగిన్ లేకుండా, లాగిన్‌తో డౌన్‌లోడ్ చేసే పద్ధతులు స్టెప్ బై స్టెప్."
 author = "మధు"
 categories = ["Govt Schemes"]
-[cover] image = "images/income-certificate-download-ap" alt = "AP Income Certificate download ఎలా"
+[cover] image = "images/income-certificate-download-ap.jpg" alt = "AP Income Certificate download ఎలా"
 
 +++
 **Income Certificate అంటే ఏమిటి?** ఇన్‌కమ్ సర్టిఫికెట్ (ఆదాయ ధ్రువీకరణ పత్రం) అంటే ఒక కుటుంబం లేదా వ్యక్తి సంవత్సరానికి ఎంత ఆదాయం పొందుతున్నారో రెవెన్యూ శాఖ అధికారికంగా ధృవీకరించే పత్రం. స్కాలర్‌షిప్‌లు, ఫీజు రీయింబర్స్‌మెంట్, కొన్ని ప్రభుత్వ పథకాలు, విద్యా సంస్థల్లో ప్రవేశాల సమయంలో ఇది అడుగుతారు. ఎక్కడ ఎంత కాలం చెల్లుతుందనేది వాడే పథకం లేదా సంస్థ నిబంధనలపై ఆధారపడి ఉంటుంది, కాబట్టి అవసరమైన చోట ఒకసారి అడిగి తెలుసుకోండి.
+
 ఇన్‌కమ్ సర్టిఫికెట్ అప్లై చేశాక అది అప్రూవ్ అయిందో లేదో, ఎక్కడ నుంచి డౌన్‌లోడ్ చేసుకోవాలో చాలామందికి తెలియదు. కొందరు సచివాలయంలో అప్లై చేస్తారు, కొందరు MeeSeva లో, ఇప్పుడు WhatsApp Mana Mitra లో కూడా అప్లై చేసుకోవచ్చు. అందుకే "AP Seva portal లో చూడాలా, MeeSeva లో చూడాలా?" అనే సందేహం వస్తుంది.
 
 ఈ పోస్టులో **AP Seva Portal**, **MeeSeva**, **WhatsApp Mana Mitra** – ఈ మూడింటిలో Income Certificate ఎలా డౌన్‌లోడ్ చేసుకోవాలో నేను చూసినట్లుగా వివరిస్తున్నాను.
@@ -38,7 +39,7 @@ categories = ["Govt Schemes"]
 
 ## 1. AP Seva Portal లో డౌన్‌లోడ్
 
-image = "images/ap-seva-portal-home-page.jpg" alt = "AP Seva Portal హోమ్ పేజీ – Aadhaar, Preview Certificate, Service Request Status ఆప్షన్లు"
+![AP Seva Portal హోమ్ పేజీ – Aadhaar, Preview Certificate, Service Request Status ఆప్షన్లు](/images/ap-seva-portal-home-page.jpg)
 
 
 AP Seva Portal హోమ్ పేజీ (apseva.ap.gov.in) లో లాగిన్ లేకుండా మూడు ఆప్షన్లు కనిపిస్తాయి:
@@ -57,7 +58,7 @@ AP Seva Portal హోమ్ పేజీ (apseva.ap.gov.in) లో లాగి�
 
 ## 2. MeeSeva Portal లో డౌన్‌లోడ్
 
-image = "meeseva-portal-home-page.jpg" alt = "Meeseva Seva Portal హోమ్ పేజీ – Preview Certificate, Service Request Status ఆప్షన్లు"
+![MeeSeva Portal హోమ్ పేజీ – Check Your Application Status, Preview MeeSeva Certificate, Find Your Service ఆప్షన్లు](/images/meeseva-portal-home-page.jpg)
 
 
 MeeSeva హోమ్ పేజీ (ap.meeseva.gov.in) లో కూడా లాగిన్ లేకుండా మూడు ఆప్షన్లు ఉన్నాయి:
