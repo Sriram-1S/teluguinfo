@@ -138,7 +138,7 @@ Mana Mitra ద్వారా APEPDCL, APSPDCL, APCPDCL – ఈ మూడు డ
 </div>
 ## ఇవి కూడా చదవండి
 
-- [ఇన్‌కమ్ సర్టిఫికెట్ డౌన్‌లోడ్ ఎలా? AP Seva Portal, MeeSeva, Mana Mitra](/income-certificate-download-ap/)
+- [ఇన్‌కమ్ సర్టిఫికెట్ డౌన్‌లోడ్ ఎలా? AP Seva Portal, MeeSeva, Mana Mitra](https://teluguinfo.in/posts/income-certificate-download-ap/)
 
 
 ---
