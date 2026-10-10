@@ -177,12 +177,7 @@ SBI వెబ్‌సైట్ ప్రకారం ప్రాజెక్�
 
 ## సమాచార మూలాలు
 
-- [SBI – PM-KUSUM Component-A అధికారిక పేజీ](https://sbi.co.in/web/agri-rural/agriculture-banking/government-schemes/pm-kusum-scheme-a) (పేజీలో చూపిన చివరి అప్‌డేట్: 21-03-2024)
-- [SBI – PM-KUSUM Component-B, C పేజీ](https://sbi.co.in/web/agri-rural/agriculture-banking/government-schemes/pm-kusum-scheme-b-and-c)
-- [MNRE – PM-KUSUM అధికారిక FAQ](https://pmkusum.mnre.gov.in/landing-faq.html)
-- [MNRE – PM-KUSUM అమలు మార్గదర్శకాలు (17.01.2024)](https://www.mprenewable.nic.in/uploads/2024/MNRE%20Guideline%20PM%20KUSUM%20dated%2017.01.2024.pdf)
-- [Renewable Watch – గడువుల పొడిగింపు వార్త](https://renewablewatch.in/2026/03/31/mnre-extends-timelines-for-projects-under-pm-kusum-scheme/)
-- [Energetica India – ఫైనాన్షియల్ క్లోజర్ గడువు వార్త](https://energetica-india.net/news/mnre-extends-pm-kusum-financial-closure-deadline-to-nov-30)
+- [SBI – PM-KUSUM Component-A అధికారిక పేజీ](https://sbi.co.in/web/agri-rural/agriculture-banking/government-schemes/pm-kusum-scheme-a)
 
 <div class="follow-box">
   <p class="label">ఇలాంటి అప్‌డేట్స్ కోసం</p>
@@ -192,6 +187,10 @@ SBI వెబ్‌సైట్ ప్రకారం ప్రాజెక్�
   </div>
   <p class="sub-text">ప్రభుత్వ పథకాలు, GOలు, అప్‌డేట్స్ సరళమైన తెలుగులో</p>
 </div>
+
+## ఇవి కూడా చదవండి
+
+- [Pradhan Mantri Surya Ghar Muft Bijli Yojana: ఇంటి పైకప్పు సోలార్‌కి ₹78,000 వరకు సబ్సిడీ — పూర్తి వివరాలు](https://teluguinfo.in/posts/pm-surya-ghar-yojana/)
 
 ---
 
