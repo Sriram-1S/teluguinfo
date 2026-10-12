@@ -21,71 +21,14 @@ PRC అంటే Pay Revision Commission, అంటే వేతన సవరణ
 
 </div>
 
-## 12th PRC ఇప్పుడు ఏ స్థితిలో ఉంది?
-
-- 12వ PRC ని ప్రభుత్వం G.O.Ms.No.68 (12-07-2023) తో ఏర్పాటు చేసింది.
-- G.O.Ms.No.200 (01-10-2026) ద్వారా విశ్రాంత IAS అధికారి శ్రీ దినేష్ కుమార్ గారిని Pay Revision Commissioner గా నియమించారు. ఆయన బాధ్యతలు తీసుకున్న తేదీ నుంచి ఏడాదిలోపు నివేదిక ఇవ్వాలి.
-- ఈ ఉత్తర్వులో fitment శాతం, కొత్త pay scales, arrears, అమలు తేదీ గురించి ఏమీ లేదు.
-- ఉద్యోగ సంఘాలు 12th PRC ని 1 జూలై 2023 నుంచి వర్తింపజేయాలని అడుగుతున్నాయి. ప్రభుత్వం ఈ తేదీని ఇంకా ప్రకటించలేదు.
-- ఇటీవల ప్రభుత్వం రెండు DA instalments ను మంజూరు చేసింది. దీంతో RPS 2022 లో DA 41.86% అయింది (1-1-2025 నుంచి వర్తింపు, నగదు సెప్టెంబర్ 2026 జీతం నుంచి).
-
-## 11వ PRC లో పే ఎలా fix చేశారు?
-
-కొత్త PRC కూడా దాదాపు అదే పద్ధతిలో వస్తుందని మనం అంచనా వేస్తున్నాం కాబట్టి, ముందు గత PRC లో ఏం జరిగిందో చూద్దాం. 11వ PRC పే సవరణ ఉత్తర్వు G.O.Ms.No.1 (Finance PC-TA, 17-01-2022). అందులో పే fix చేసే విధానం ఇది:
-
-<ol class="steps">
-<li><strong>Basic pay తీసుకుంటారు.</strong> పాత scale (RPS 2015) లో 2018 జూలై 1 నాటి basic pay ని లెక్కలోకి తీసుకున్నారు.</li>
-<li><strong>DA, fitment కలుపుతారు.</strong> ఆ basic మీద 1-7-2018 నాటి DA (30.392%) merge చేసి, దానికి fitment 23% కలిపారు. అంటే basic × 1.53392 (1 + 0.30392 + 0.23).</li>
-<li><strong>పై స్టేజ్ లో fix చేస్తారు.</strong> వచ్చిన మొత్తాన్ని కొత్త master scale లో వెంటనే పై స్టేజ్ కి మార్చారు. సరిగ్గా స్టేజ్ అయితే అదే విలువ.</li>
-<li><strong>Interim Relief (IR)</strong> ని పే గా లెక్కలోకి తీసుకోలేదు.</li>
-</ol>
-
-కొత్త master scale ₹20,000 నుంచి ₹1,79,000 వరకు మొత్తం 83 స్టేజ్ లతో ఉంది. దీన్ని 32 grades గా విభజించారు. అన్ని pay scales ఈ master scale లోని భాగాలే.
-
-G.O. లో ఇచ్చిన ఉదాహరణల నుంచి కొన్ని విలువలు:
-
-<div class="table-wrap">
-
-| పాత basic (RPS 2015) | × 1.53392 | కొత్త పే (master scale లో) |
-|---|---|---|
-| ₹25,840 | సుమారు ₹39,636 | ₹39,800 |
-| ₹26,600 | సుమారు ₹40,802 | ₹40,970 |
-| ₹51,230 | సుమారు ₹78,583 | ₹78,820 |
-
-</div>
-
-### ఇతర సందర్భాల్లో ఏం చేశారు?
-
-- **కనిష్ఠం, గరిష్ఠం:** లెక్క వచ్చిన విలువ కొత్త scale కనిష్ఠం కంటే తక్కువైతే కనిష్ఠంలో, గరిష్ఠం కంటే ఎక్కువైతే గరిష్ఠంలో fix చేశారు. ఎక్కువ ఉన్న తేడాను Personal Pay గా ఇచ్చి, తర్వాత పెరుగుదలల్లో సర్దుబాటు చేశారు.
-- **తర్వాతి increment తేదీ:** మారదు. పాత scale లో ఏ తేదీన వచ్చేదో అదే తేదీన వస్తుంది.
-- **ప్రత్యేక సందర్భాలు:** increments ఆపిన (stoppage) వారికి, సెలవులో లేదా suspension లో ఉన్నవారికి వేర్వేరు నియమాలు ఉన్నాయి.
-- **AAS (Automatic Advancement Scheme):** 6 ఏళ్లకు Special Grade, 12 ఏళ్లకు SPP-IA, 18 ఏళ్లకు SPP-IB (ఒక increment), 24 ఏళ్లకు SPP-IIA, 30 ఏళ్లకు SPP-IIB (ఒక increment). ఇది Grade 25 (₹76,730 - ₹1,62,780) వరకు మాత్రమే.
-- **Promotion:** పాత పేకి ఒక increment కలిపి, పై పోస్టు scale లో వెంటనే పై స్టేజ్ లో పే fix చేయడం సాధారణ నియమం (FR 22(a)(i)). కొందరికి FR 22-B option ఉంటుంది, దానికి ఒక నెలలోపు option ఇవ్వాలి.
-- **HRA:** 24% (ఢిల్లీ, హైదరాబాద్ లోని AP ఆఫీసులు), 16% (విశాఖపట్నం, గుంటూరు, నెల్లూరు, విజయవాడ, వెలగపూడి సచివాలయం), 8% (ఇతర ప్రాంతాలు). DA 50% దాటితే ఇవి 27%, 17.5%, 9% అవుతాయి. CCA రద్దు చేశారు.
-- **తేదీలు:** పే 1-7-2018 నుంచి notional గా fix అయింది. Monetary benefit 1-4-2020 నుంచి. నగదు చెల్లింపు 2022 జనవరి జీతం నుంచి.
-
-## 12th PRC కి అంచనా ఎలా వేస్తాం?
-
-ఈ ఆర్టికల్ లోని కాలిక్యులేటర్, 11వ PRC పద్ధతినే మళ్లీ వాడితే ఏం వస్తుందో చూపిస్తుంది. కానీ ఇందులో మూడు విషయాలు మనకు ఇప్పుడు తెలియవు:
-
-1. ఏ తేదీ నాటి DA ని basic లో merge చేస్తారు (మనం ఉదాహరణకు 1-7-2023 నాటి 33.67% ని తీసుకున్నాం).
-2. Fitment ఎంత ఇస్తారు.
-3. కొత్త master scale ఎలా ఉంటుంది.
-
-అందుకే కాలిక్యులేటర్ లో DA, fitment ని మీరే మార్చుకోవచ్చు. ప్రతి dropdown లో "manual" ఆప్షన్ కూడా ఉంది. ఇక్కడ చూపే విలువలను ప్రభుత్వ నిర్ణయంగా అనుకోవద్దు.
-
-ఒక విషయం మాత్రం ముందే గమనించండి. DA ని basic లో కలిపేశాక కొత్త basic బాగా పెరిగినట్టు కనిపిస్తుంది. కానీ అప్పటి నుంచి DA మళ్లీ దాదాపు 0 నుంచి మొదలవుతుంది. అందుకే basic పెరిగిన శాతం, gross జీతం పెరిగిన శాతం ఒకటి కావు.
-
-ఉదాహరణకు (పూర్తిగా ఊహ): 2023 జూలై నాటి basic ₹51,140, merge అయ్యే DA 33.67%, fitment 23%, ఇప్పటి DA 41.86%, HRA 8% అనుకుందాం. అప్పుడు కొత్త basic సుమారు ₹80,130 అవుతుంది (56.7% పెరుగుదల). కానీ gross సుమారు ₹76,638 నుంచి ₹93,103 కి మాత్రమే వెళ్తుంది (21.5% పెరుగుదల).
-
 ## కాలిక్యులేటర్ ఎలా వాడాలి? (Step by Step)
 
 <ol class="steps">
 <li><strong>Basic pay:</strong> మీ payslip లేదా Service Register లో 2023 జూలై నాటి basic pay చూసి, dropdown లో ఎంచుకోండి. ఇప్పటి basic కాదు, 2023 జూలై నాటిది ఇవ్వాలి. లేకపోతే తర్వాత వచ్చిన increments రెండుసార్లు కలిసిపోతాయి.</li>
 <li><strong>Merge అయ్యే DA:</strong> ఏ తేదీ నాటి DA ని merge చేస్తారో ప్రభుత్వం నిర్ణయిస్తుంది. 33.67% అనేది 1-7-2023 నాటి DA. ఇది ఉదాహరణ మాత్రమే.</li>
 <li><strong>Fitment:</strong> మీ అంచనా శాతాన్ని ఎంచుకోండి. 11వ PRC లో ఇచ్చింది 23%.</li>
-<li><strong>Increments:</strong> 2023 జూలై తర్వాత, కొత్త scale అమలయ్యే సంవత్సరం వరకు పాత scale లో ఎన్ని increments వస్తాయో ఎంచుకోండి.</li>
-<li><strong>Promotion / AAS:</strong> 2023 జూలై తర్వాత మీకు promotion లేదా AAS వస్తే, ఆ ఆప్షన్ ఎంచుకోండి. Scale మారితే, కొత్త scale కనిష్ఠ పే కూడా ఎంచుకోవాలి.</li>
+<li><strong>Increments:</strong> 2023 జూలై తర్వాత, కొత్త scale అమలయ్యే సంవత్సరం వరకు వచ్చే మొత్తం increments సంఖ్యను ఎంచుకోండి. Promotion ఉంటే, దాని ముందు, తర్వాత వచ్చేవన్నీ కలిపి చెప్పండి.</li>
+<li><strong>Promotion / AAS:</strong> 2023 జూలై తర్వాత మీకు promotion లేదా AAS వస్తే, ఆ ఆప్షన్ ఎంచుకోండి. Scale మారితే, కొత్త scale కనిష్ఠ పే, అలాగే అది వచ్చే నాటికి ఎన్ని increments అయ్యాయో కూడా ఎంచుకోవాలి. ఎందుకంటే promotion తర్వాత increments పెరిగిన పే నుంచే మొదలవుతాయి.</li>
 <li><strong>ఇప్పటి DA:</strong> ఇప్పుడు అమలులో ఉన్న DA ఎంచుకోండి. Merge అయిన DA ని తీసేసి, మిగిలిన DA ని కాలిక్యులేటర్ లెక్కిస్తుంది.</li>
 <li><strong>HRA:</strong> మీరు పనిచేసే ప్రాంతం ప్రకారం ఎంచుకోండి.</li>
 <li><strong>Deductions:</strong> CPS లేదా GPF, EHS, Professional tax, APGLI, ఇతర recoveries ఇవ్వండి.</li>
@@ -148,9 +91,10 @@ var F=[
 {id:'basic',l:'1. జూలై 2023 నాటి మీ basic pay (11th PRC)',h:'Payslip లేదా SR లో 2023 జూలై నాటి basic చూడండి. ఇప్పటి basic ఇస్తే increments రెండుసార్లు కలుస్తాయి.',o:stageOpts(),d:'',ml:'Basic pay ఎంటర్ చేయండి (ఉదా: 51230)'},
 {id:'da',l:'2. Merge అయ్యే DA % (ఉదాహరణ)',h:'11th PRC లో 1-7-2018 నాటి DA (30.392%) merge చేశారు. 12th PRC లో ఏ తేదీ నాటిది తీసుకుంటారో ప్రభుత్వ నిర్ణయం. ఇక్కడ ఉదాహరణ మాత్రమే.',o:[[33.67,'33.67% (1-7-2023 నాటి DA)'],[37.31,'37.31% (1-1-2024 నాటి DA)'],[40.04,'40.04% (1-7-2024 నాటి DA)'],[41.86,'41.86% (1-1-2025 నాటి DA)']],d:'33.67',ml:'DA % ఎంటర్ చేయండి'},
 {id:'fit',l:'3. Fitment % (basic మీద)',h:'11th PRC లో 23% ఇచ్చారు. 12th PRC లో ఎంత ఇస్తారో ఇంకా తెలియదు. ఇది మీ ఊహ మాత్రమే.',o:fits,d:'23',ml:'Fitment % ఎంటర్ చేయండి'},
-{id:'inc',l:'4. జూలై 2023 తర్వాత పాత scale లో వచ్చిన increments',h:'కొత్త scale అమలయ్యే సంవత్సరం వరకు ఎన్ని increments వస్తాయో ఎంచుకోండి.',o:[[0,'లేవు'],[1,'1 (2024 వరకు)'],[2,'2 (2025 వరకు)'],[3,'3 (2026 వరకు)'],[4,'4 (2027 వరకు)']],d:'0',ml:'Increments సంఖ్య ఎంటర్ చేయండి'},
-{id:'ev',l:'5. Promotion / AAS (జూలై 2023 తర్వాత)',h:'Promotion లేదా AAS లో scale మారితే 3వ ఆప్షన్ ఎంచుకుని, కింద కొత్త scale కనిష్ఠ పే ఇవ్వండి.',o:[['none','ఏమీ లేదు'],['inc','ఒక increment మాత్రమే (AAS 18/30 ఏళ్లు, FR 22-B)'],['promo','Promotion లేదా AAS లో scale మారింది']],d:'none',ml:'Promotion తర్వాత basic (పాత scale లో) ఎంటర్ చేయండి'},
+{id:'inc',l:'4. జూలై 2023 నుంచి మొత్తం increments (promotion కి ముందు, తర్వాత కలిపి)',h:'కొత్త scale అమలయ్యే సంవత్సరం వరకు ఎన్ని increments వస్తాయో ఎంచుకోండి. Promotion ఉంటే, దాని ముందు, తర్వాత వచ్చేవన్నీ కలిపి మొత్తం సంఖ్య ఇవ్వండి.',o:[[0,'లేవు'],[1,'1 (2024 వరకు)'],[2,'2 (2025 వరకు)'],[3,'3 (2026 వరకు)'],[4,'4 (2027 వరకు)']],d:'0',ml:'Increments సంఖ్య ఎంటర్ చేయండి'},
+{id:'ev',l:'5. Promotion / AAS (జూలై 2023 తర్వాత)',h:'Promotion లేదా AAS లో scale మారితే "Promotion లేదా AAS లో scale మారింది" ఎంచుకుని, కింద కొత్త scale కనిష్ఠ పే, అది వచ్చే నాటికి ఎన్ని increments అయ్యాయో ఇవ్వండి.',o:[['none','ఏమీ లేదు'],['inc','ఒక increment మాత్రమే (AAS 18/30 ఏళ్లు, FR 22-B)'],['promo','Promotion లేదా AAS లో scale మారింది']],d:'none',ml:'Promotion తర్వాత basic (పాత scale లో) ఎంటర్ చేయండి'},
 {id:'pm',l:'5-ఎ. కొత్త scale కనిష్ఠ పే',h:'Promotion / AAS లో చేరిన scale యొక్క కనిష్ఠ పే (11th PRC Schedule-I లోని grade ప్రకారం).',o:gradeOpts(),d:'',ml:'కనిష్ఠ పే ఎంటర్ చేయండి',hide:true},
+{id:'pt',l:'5-బి. Promotion / AAS వచ్చే నాటికి ఎన్ని increments అయ్యాయి',h:'Promotion కి ముందు వచ్చిన increments పాత పే మీద, తర్వాత వచ్చేవి పెరిగిన పే మీద కలుస్తాయి. కాబట్టి ఇది ముఖ్యం.',o:[[0,'0 – మొదటి increment కంటే ముందే'],[1,'1 increment తర్వాత'],[2,'2 increments తర్వాత'],[3,'3 increments తర్వాత'],[4,'4 increments తర్వాత']],d:'0',ml:'సంఖ్య ఎంటర్ చేయండి',hide:true},
 {id:'cur',l:'6. ఇప్పటి DA %',h:'ఇప్పుడు అమలులో ఉన్న DA. Merge అయిన DA ని తీసేసి మిగిలిన DA లెక్కిస్తాం.',o:[[41.86,'41.86% (1-1-2025, తాజా)'],[40.04,'40.04% (1-7-2024)'],[37.31,'37.31% (1-1-2024)'],[33.67,'33.67% (1-7-2023)']],d:'41.86',ml:'DA % ఎంటర్ చేయండి'},
 {id:'hra',l:'7. HRA % (మీ ప్రాంతం ప్రకారం)',h:'11th PRC రేట్లు. 12th PRC లో మారవచ్చు.',o:[[8,'8% – ఇతర ప్రాంతాలు'],[16,'16% – విశాఖపట్నం, గుంటూరు, నెల్లూరు, విజయవాడ, వెలగపూడి సచివాలయం'],[24,'24% – ఢిల్లీ, హైదరాబాద్ లోని AP ఆఫీసులు'],[9,'9% (DA 50% దాటితే, ఉదాహరణ)'],[17.5,'17.5% (DA 50% దాటితే, ఉదాహరణ)'],[27,'27% (DA 50% దాటితే, ఉదాహరణ)']],d:'8',ml:'HRA % ఎంటర్ చేయండి'},
 {id:'pen',l:'8. పెన్షన్ recovery',h:'CPS: 1-9-2004 తర్వాత చేరినవారికి (basic + DA) లో 10%. అంతకు ముందు చేరినవారు GPF/ZPPF మొత్తం manual గా ఇవ్వండి.',o:[['cps','CPS – (basic + DA) లో 10%'],[0,'వర్తించదు']],d:'cps',ml:'GPF / ZPPF మొత్తం ఎంటర్ చేయండి'},
@@ -162,9 +106,9 @@ var F=[
 function build(){
 var h='';
 F.forEach(function(f){
-h+='<div class="pc-f" id="w_'+f.id+'"'+(f.hide?' style="display:none"':'')+'><label for="s_'+f.id+'">'+f.l+'</label><select id="s_'+f.id+'">';
+h+='<div class="pc-f" id="w_'+f.id+'"'+(f.hide?' style="display:none"':'')+'><label for="s_'+f.id+'">'+f.l+'</label><select id="s_'+f.id+'"><option value="manual">నేను ఎంటర్ చేస్తాను (manual)</option>';
 f.o.forEach(function(o){h+='<option value="'+o[0]+'"'+(String(o[0])===f.d?' selected':'')+'>'+o[1]+'</option>';});
-h+='<option value="manual">నేనే ఎంటర్ చేస్తాను (manual)</option></select>';
+h+='</select>';
 h+='<input type="number" step="any" min="0" class="pc-m" id="m_'+f.id+'" placeholder="'+f.ml+'">';
 h+='<div class="pc-h">'+f.h+'</div></div>';
 });
@@ -180,12 +124,16 @@ var out=document.getElementById('pcOut');
 var b=num('basic');
 if(!(b>0)){out.innerHTML='<div class="pc-note">మొదట 1వ దశలో మీ basic pay ఎంచుకోండి.</div>';return;}
 var da=num('da'),fit=num('fit'),n=Math.round(num('inc')),cur=num('cur'),hra=num('hra');
-var old=b;
-if(n>0){old=up(b,n);}
+var old=b,path=[];
+function stepUp(label){var i=ix(old),a=S[i],c=S[Math.min(S.length-1,i+1)];path.push(label+fmt(a)+' → '+fmt(c)+' (+'+(c-a)+')');old=c;}
 var ev=sel('ev');
-if(ev==='inc'){old=up(old,1);}
-else if(ev==='promo'){var mn=num('pm');old=Math.max(up(old,1),mn);}
-else if(ev==='manual'){var mv=num('ev');if(mv>0){old=mv;}}
+var k=(ev==='promo'||ev==='manual')?Math.min(n,Math.max(0,Math.round(num('pt')))):n;
+if(n>0){old=S[ix(b)];}
+for(var j=1;j<=k;j++){stepUp('Increment '+j+': ');}
+if(ev==='promo'){var mn=num('pm');var i2=ix(old),nx=S[Math.min(S.length-1,i2+1)];if(mn>nx){path.push('Promotion / AAS: '+fmt(old)+' → '+fmt(mn)+' (కొత్త scale కనిష్ఠ పే)');old=mn;}else{stepUp('Promotion / AAS: ');}}
+else if(ev==='manual'){var mv=num('ev');if(mv>0){old=mv;path.push('Promotion తర్వాత basic: '+fmt(mv)+' (మీరు ఇచ్చింది)');}}
+for(var j2=k+1;j2<=n;j2++){stepUp('Increment '+j2+((ev==='promo'||ev==='manual')?' (promotion తర్వాత)':'')+': ');}
+if(ev==='inc'){stepUp('AAS / FR 22-B: ');}
 var f=1+da/100+fit/100;
 var fs=String(parseFloat(f.toFixed(5)));
 var exact=Math.round(old*f*100)/100;
@@ -212,6 +160,7 @@ t+=row('Basic పెరుగుదల',bchg.toFixed(1)+'%');
 t+=row('మిగిలిన DA ('+rem.toFixed(2)+'%)',fmt(dAmt));
 t+=row('HRA ('+hra+'%)',fmt(hAmt));
 t+='</table></div>';
+if(path.length){t+='<div class="pc-sm">Increments క్రమం (11th PRC master scale ప్రకారం):<br>'+path.join('<br>')+'</div>';}
 t+='<div class="pc-big"><strong>అంచనా Gross: '+fmt(gross)+'</strong></div>';
 t+='<div class="pc-tw"><table class="pc-table">';
 t+=row(sel('pen')==='cps'?'CPS (10%)':'GPF / ZPPF',fmt(cps+gpf));
@@ -237,13 +186,14 @@ var m=document.getElementById('m_'+f.id);
 m.value='';m.style.display='none';
 });
 document.getElementById('w_pm').style.display='none';
+document.getElementById('w_pt').style.display='none';
 document.getElementById('pcOut').innerHTML='';
 }
 function wire(){
 F.forEach(function(f){
 document.getElementById('s_'+f.id).addEventListener('change',function(){
 document.getElementById('m_'+f.id).style.display=(this.value==='manual')?'block':'none';
-if(f.id==='ev'){document.getElementById('w_pm').style.display=(this.value==='promo')?'block':'none';}
+if(f.id==='ev'){document.getElementById('w_pm').style.display=(this.value==='promo')?'block':'none';document.getElementById('w_pt').style.display=(this.value==='promo'||this.value==='manual')?'block':'none';}
 });
 });
 document.getElementById('pcGo').addEventListener('click',calc);
@@ -254,13 +204,79 @@ wire();
 })();
 </script>
 
+## 12th PRC ఇప్పుడు ఏ స్థితిలో ఉంది?
+
+- 12వ PRC ని ప్రభుత్వం G.O.Ms.No.68 (12-07-2023) తో ఏర్పాటు చేసింది.
+- G.O.Ms.No.200 (01-10-2026) ద్వారా విశ్రాంత IAS అధికారి శ్రీ దినేష్ కుమార్ గారిని Pay Revision Commissioner గా నియమించారు. ఆయన బాధ్యతలు తీసుకున్న తేదీ నుంచి ఏడాదిలోపు నివేదిక ఇవ్వాలి.
+- ఈ ఉత్తర్వులో fitment శాతం, కొత్త pay scales, arrears, అమలు తేదీ గురించి ఏమీ లేదు.
+- ఉద్యోగ సంఘాలు 12th PRC ని 1 జూలై 2023 నుంచి వర్తింపజేయాలని అడుగుతున్నాయి. ప్రభుత్వం ఈ తేదీని ఇంకా ప్రకటించలేదు.
+- ఇటీవల ప్రభుత్వం రెండు DA instalments ను మంజూరు చేసింది. దీంతో RPS 2022 లో DA 41.86% అయింది (1-1-2025 నుంచి వర్తింపు, నగదు సెప్టెంబర్ 2026 జీతం నుంచి).
+
+<div class="follow-box">
+<div class="label">PRC కి సంబంధించిన తాజా అప్‌డేట్స్ కోసం మా channels లో చేరండి</div>
+<div class="btn-row">
+<a class="whatsapp-btn" href="https://whatsapp.com/channel/0029VbCOvZq1dAw0grhjJ10p" target="_blank" rel="noopener noreferrer">WhatsApp Channel</a>
+<a class="telegram-btn" href="https://t.me/telugucurrentaffairsandquizzes" target="_blank" rel="noopener noreferrer">Telegram Channel</a>
+</div>
+<div class="sub-text">ప్రభుత్వ పథకాలు, ఉద్యోగుల అప్‌డేట్స్ సరళమైన తెలుగులో.</div>
+</div>
+
+## 11వ PRC లో పే ఎలా fix చేశారు?
+
+కొత్త PRC కూడా దాదాపు అదే పద్ధతిలో వస్తుందని మనం అంచనా వేస్తున్నాం కాబట్టి, ముందు గత PRC లో ఏం జరిగిందో చూద్దాం. 11వ PRC పే సవరణ ఉత్తర్వు G.O.Ms.No.1 (Finance PC-TA, 17-01-2022). అందులో పే fix చేసే విధానం ఇది:
+
+<ol class="steps">
+<li><strong>Basic pay తీసుకుంటారు.</strong> పాత scale (RPS 2015) లో 2018 జూలై 1 నాటి basic pay ని లెక్కలోకి తీసుకున్నారు.</li>
+<li><strong>DA, fitment కలుపుతారు.</strong> ఆ basic మీద 1-7-2018 నాటి DA (30.392%) merge చేసి, దానికి fitment 23% కలిపారు. అంటే basic × 1.53392 (1 + 0.30392 + 0.23).</li>
+<li><strong>పై స్టేజ్ లో fix చేస్తారు.</strong> వచ్చిన మొత్తాన్ని కొత్త master scale లో వెంటనే పై స్టేజ్ కి మార్చారు. సరిగ్గా స్టేజ్ అయితే అదే విలువ.</li>
+<li><strong>Interim Relief (IR)</strong> ని పే గా లెక్కలోకి తీసుకోలేదు.</li>
+</ol>
+
+కొత్త master scale ₹20,000 నుంచి ₹1,79,000 వరకు మొత్తం 83 స్టేజ్ లతో ఉంది. దీన్ని 32 grades గా విభజించారు. అన్ని pay scales ఈ master scale లోని భాగాలే.
+
+G.O. లో ఇచ్చిన ఉదాహరణల నుంచి కొన్ని విలువలు:
+
+<div class="table-wrap">
+
+| పాత basic (RPS 2015) | × 1.53392 | కొత్త పే (master scale లో) |
+|---|---|---|
+| ₹25,840 | సుమారు ₹39,636 | ₹39,800 |
+| ₹26,600 | సుమారు ₹40,802 | ₹40,970 |
+| ₹51,230 | సుమారు ₹78,583 | ₹78,820 |
+
+</div>
+
+### ఇతర సందర్భాల్లో ఏం చేశారు?
+
+- **కనిష్ఠం, గరిష్ఠం:** లెక్క వచ్చిన విలువ కొత్త scale కనిష్ఠం కంటే తక్కువైతే కనిష్ఠంలో, గరిష్ఠం కంటే ఎక్కువైతే గరిష్ఠంలో fix చేశారు. ఎక్కువ ఉన్న తేడాను Personal Pay గా ఇచ్చి, తర్వాత పెరుగుదలల్లో సర్దుబాటు చేశారు.
+- **తర్వాతి increment తేదీ:** మారదు. పాత scale లో ఏ తేదీన వచ్చేదో అదే తేదీన వస్తుంది.
+- **ప్రత్యేక సందర్భాలు:** increments ఆపిన (stoppage) వారికి, సెలవులో లేదా suspension లో ఉన్నవారికి వేర్వేరు నియమాలు ఉన్నాయి.
+- **AAS (Automatic Advancement Scheme):** 6 ఏళ్లకు Special Grade, 12 ఏళ్లకు SPP-IA, 18 ఏళ్లకు SPP-IB (ఒక increment), 24 ఏళ్లకు SPP-IIA, 30 ఏళ్లకు SPP-IIB (ఒక increment). ఇది Grade 25 (₹76,730 - ₹1,62,780) వరకు మాత్రమే.
+- **Promotion:** పాత పేకి ఒక increment కలిపి, పై పోస్టు scale లో వెంటనే పై స్టేజ్ లో పే fix చేయడం సాధారణ నియమం (FR 22(a)(i)). కొందరికి FR 22-B option ఉంటుంది, దానికి ఒక నెలలోపు option ఇవ్వాలి.
+- **HRA:** 24% (ఢిల్లీ, హైదరాబాద్ లోని AP ఆఫీసులు), 16% (విశాఖపట్నం, గుంటూరు, నెల్లూరు, విజయవాడ, వెలగపూడి సచివాలయం), 8% (ఇతర ప్రాంతాలు). DA 50% దాటితే ఇవి 27%, 17.5%, 9% అవుతాయి. CCA రద్దు చేశారు.
+- **తేదీలు:** పే 1-7-2018 నుంచి notional గా fix అయింది. Monetary benefit 1-4-2020 నుంచి. నగదు చెల్లింపు 2022 జనవరి జీతం నుంచి.
+
+## 12th PRC కి అంచనా ఎలా వేస్తాం?
+
+ఈ ఆర్టికల్ లోని కాలిక్యులేటర్, 11వ PRC పద్ధతినే మళ్లీ వాడితే ఏం వస్తుందో చూపిస్తుంది. కానీ ఇందులో మూడు విషయాలు మనకు ఇప్పుడు తెలియవు:
+
+1. ఏ తేదీ నాటి DA ని basic లో merge చేస్తారు (మనం ఉదాహరణకు 1-7-2023 నాటి 33.67% ని తీసుకున్నాం).
+2. Fitment ఎంత ఇస్తారు.
+3. కొత్త master scale ఎలా ఉంటుంది.
+
+అందుకే కాలిక్యులేటర్ లో DA, fitment ని మీరే మార్చుకోవచ్చు. ప్రతి dropdown లో "manual" ఆప్షన్ కూడా ఉంది. ఇక్కడ చూపే విలువలను ప్రభుత్వ నిర్ణయంగా అనుకోవద్దు.
+
+ఒక విషయం మాత్రం ముందే గమనించండి. DA ని basic లో కలిపేశాక కొత్త basic బాగా పెరిగినట్టు కనిపిస్తుంది. కానీ అప్పటి నుంచి DA మళ్లీ దాదాపు 0 నుంచి మొదలవుతుంది. అందుకే basic పెరిగిన శాతం, gross జీతం పెరిగిన శాతం ఒకటి కావు.
+
+ఉదాహరణకు (పూర్తిగా ఊహ): 2023 జూలై నాటి basic ₹51,140, merge అయ్యే DA 33.67%, fitment 23%, ఇప్పటి DA 41.86%, HRA 8% అనుకుందాం. అప్పుడు కొత్త basic సుమారు ₹80,130 అవుతుంది (56.7% పెరుగుదల). కానీ gross సుమారు ₹76,638 నుంచి ₹93,103 కి మాత్రమే వెళ్తుంది (21.5% పెరుగుదల).
+
 ## ఈ కాలిక్యులేటర్ లెక్క ఎలా పనిచేస్తుంది?
 
 కాలిక్యులేటర్ లో జరిగే లెక్క ఇది. ఏ దశలోనూ దాచిన అంకెలు లేవు.
 
 - **కొత్త basic:** పాత scale basic × (1 + DA% + fitment%). వచ్చిన విలువను ₹10 కి పైకి రౌండ్ చేస్తాం. కొత్త master scale ఇంకా లేదు కాబట్టి, నిజమైన స్టేజ్ తో కొంత తేడా ఉండొచ్చు.
-- **Increments:** 11వ PRC master scale లో ఒక్కో స్టేజ్ పైకి వెళ్తాం. Scale గరిష్ఠం (stagnation) ని పరిగణించలేదు.
-- **Promotion / AAS లో scale మార్పు:** (పాత పేకి ఒక increment కలిపిన విలువ) లేదా (కొత్త scale కనిష్ఠ పే), ఏది ఎక్కువైతే అది. ఇది FR 22(a)(i) నియమం, అన్ని scales ఒకే master scale భాగాలు కావడం ఆధారంగా మేము వేసిన అంచనా పద్ధతి. అసలు fixation కొద్దిగా వేరుగా ఉండొచ్చు.
+- **Increments:** 11వ PRC master scale లో ఒక్కో స్టేజ్ పైకి వెళ్తాం. ప్రతి increment మొత్తం master scale లోని ఆ స్టేజ్ ప్రకారమే ఉంటుంది. ఉదాహరణకు ₹22,460 నుంచి 3 increments అంటే ₹23,120 → ₹23,780 → ₹24,500 (+660, +660, +720). Scale గరిష్ఠం (stagnation) ని పరిగణించలేదు.
+- **Promotion / AAS లో scale మార్పు:** (పాత పేకి ఒక increment కలిపిన విలువ) లేదా (కొత్త scale కనిష్ఠ పే), ఏది ఎక్కువైతే అది. ఇది FR 22(a)(i) నియమం, అన్ని scales ఒకే master scale భాగాలు కావడం ఆధారంగా మేము వేసిన అంచనా పద్ధతి. అసలు fixation కొద్దిగా వేరుగా ఉండొచ్చు. Promotion కి ముందు వచ్చిన increments పాత పే మీద, తర్వాత వచ్చేవి పెరిగిన పే మీద (master scale లోని ఆ స్టేజ్ ప్రకారం) కలుస్తాయి. ఉదాహరణకు ₹22,460 నుంచి 2 increments తర్వాత promotion (కొత్త scale కనిష్ఠం ₹40,970), ఆ తర్వాత 1 increment అయితే: 22,460 → 23,120 → 23,780 → 40,970 → 42,140.
 - **మిగిలిన DA:** ఇప్పటి DA − merge అయిన DA. 11వ PRC లో DA మళ్లీ 0 నుంచి మొదలైంది, తర్వాత కేంద్ర DA లో ప్రతి 1% కి AP లో 0.91% ఇచ్చారు. 12th PRC లో కూడా ఇలాగే ఉంటుందని చెప్పలేం.
 - **HRA:** కొత్త basic × HRA%.
 - **CPS:** (కొత్త basic + మిగిలిన DA) × 10%.
@@ -322,14 +338,6 @@ wire();
 
 PRC లెక్క ఒకసారి అర్థమైతే, కొత్త G.O. వచ్చినప్పుడు మీ జీతం ఎంత మారుతుందో మీరే సులభంగా చూసుకోవచ్చు. అధికారిక ఉత్తర్వులు వచ్చాక ఈ ఆర్టికల్ ను తాజా అంకెలతో అప్‌డేట్ చేస్తాం. మరిన్ని ప్రభుత్వ పథకాలు, ఉద్యోగుల సమాచారం కోసం [teluguinfo.in](/) లో ఇతర ఆర్టికల్స్ కూడా చదవండి.
 
-<div class="follow-box">
-<div class="label">ఇలాంటి అప్‌డేట్స్ కోసం మా channels లో చేరండి</div>
-<div class="btn-row">
-<a class="whatsapp-btn" href="https://whatsapp.com/channel/0029VbCOvZq1dAw0grhjJ10p" target="_blank" rel="noopener noreferrer">WhatsApp Channel</a>
-<a class="telegram-btn" href="https://t.me/telugucurrentaffairsandquizzes" target="_blank" rel="noopener noreferrer">Telegram Channel</a>
-</div>
-<div class="sub-text">ప్రభుత్వ పథకాలు, ఉద్యోగుల అప్‌డేట్స్ సరళమైన తెలుగులో.</div>
-</div>
 
 ---
 
