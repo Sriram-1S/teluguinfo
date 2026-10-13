@@ -37,19 +37,19 @@ enableRobotsTXT = true
 [[menu.main]]
   identifier = "schemes"
   name = "Govt Schemes"
-  url = "/schemes/"
+  url = "/categories/govt-schemes/"
   weight = 10
 
 [[menu.main]]
   identifier = "news"
   name = "News"
-  url = "/news/"
+  url = "/categories/news/"
   weight = 20
 
 [[menu.main]]
   identifier = "agriculture"
   name = "Agriculture"
-  url = "/agriculture/"
+  url = "/categories/agriculture/"
   weight = 30
 
 [[menu.main]]
