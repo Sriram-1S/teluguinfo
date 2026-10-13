@@ -3,7 +3,7 @@ title = "PRC అంటే ఏమిటి? PRC తో జీతం ఎలా ల
 date = 2026-10-12T12:00:00+05:30
 description = "PRC అంటే ఏమిటి, 11వ PRC లో పే ఎలా fix చేశారు, 12th PRC లో జీతం ఎంత రావచ్చో అంచనా వేసే సులభమైన కాలిక్యులేటర్. అవగాహన కోసం మాత్రమే."
 author = "మధు"
-categories = /categories/news/
+categories = ["News"]
 [cover]
   image = "images/prc-calculator-telugu.jpg"
   alt = "PRC జీతం అంచనా కాలిక్యులేటర్"
