@@ -5,7 +5,7 @@ description = "PRC అంటే ఏమిటి, 11వ PRC లో పే ఎల�
 author = "మధు"
 categories = ["News"]
 [cover]
-  image = "image/prc-calculator-telugu.jpg"
+  image = "images/prc-calculator-telugu.jpg"
   alt = "PRC జీతం అంచనా కాలిక్యులేటర్"
 +++
 
