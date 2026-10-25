@@ -4,7 +4,6 @@ date = 2026-10-25
 description = "Sarpanch, MPTC, ZPTC, MPP, ZP Chairman, Mayor, MLA, MP ఎలా ఎన్నుకోబడతారు? AP మరియు Telangana ఎన్నికల వ్యవస్థపై సులభమైన తెలుగు వివరణ."
 author = "మధు"
 categories = ["News"]
-[cover]  image = "images/mptc-zptc-mpp-mla-mp-difference-telugu.jpg"  alt = "గ్రామం నుంచి పార్లమెంట్ వరకు ఎన్నికల వ్యవస్థ - MPTC, ZPTC, MPP, ZP Chairman, MLA, MP వివరణ"
 +++
 
 ఎన్నికల సమయంలో MPTC, ZPTC, MPP, ZP Chairman, MLA, MP వంటి పదాలు తరచుగా వినిపిస్తాయి. కానీ ఎవరిని ప్రజలు నేరుగా ఎన్నుకుంటారు, ఎవరి పరిధి ఎంత, ఎవరు ఏ స్థాయిలో పని చేస్తారో చాలామందికి స్పష్టంగా ఉండదు. ఈ ఆర్టికల్‌లో గ్రామం, మండలం, జిల్లా, పట్టణం, రాష్ట్రం, దేశం — అన్ని స్థాయిల్లోని ఎన్నికైన ప్రతినిధుల గురించి సులభంగా తెలుసుకోండి.
