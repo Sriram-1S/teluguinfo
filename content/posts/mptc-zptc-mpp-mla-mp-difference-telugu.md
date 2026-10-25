@@ -1,9 +1,10 @@
 +++
-title = 'MPTC, ZPTC, MPP, ZP Chairman, MLA, MP అంటే ఏమిటి? గ్రామం నుంచి పార్లమెంట్ వరకు ఎన్నికల వ్యవస్థ'
+title = 'MPTC, ZPTC, Ward Councillor, Corporator, Chairperson, Mayor, MPP, ZP Chairman, MLA, MP అంటే ఎవరు? గ్రామం నుంచి పార్లమెంట్ వరకు ఎన్నికల వ్యవస్థ'
 date = 2026-10-25
 description = "Sarpanch, MPTC, ZPTC, MPP, ZP Chairman, Mayor, MLA, MP ఎలా ఎన్నుకోబడతారు? AP మరియు Telangana ఎన్నికల వ్యవస్థపై సులభమైన తెలుగు వివరణ."
 author = "మధు"
 categories = ["News"]
+[cover]  image = "images/mptc-zptc-mpp-mla-mp-difference-telugu.jpg"  alt = "గ్రామం నుంచి పార్లమెంట్ వరకు ఎన్నికల వ్యవస్థ - MPTC, ZPTC, MPP, ZP Chairman, MLA, MP వివరణ"
 +++
 
 ఎన్నికల సమయంలో MPTC, ZPTC, MPP, ZP Chairman, MLA, MP వంటి పదాలు తరచుగా వినిపిస్తాయి. కానీ ఎవరిని ప్రజలు నేరుగా ఎన్నుకుంటారు, ఎవరి పరిధి ఎంత, ఎవరు ఏ స్థాయిలో పని చేస్తారో చాలామందికి స్పష్టంగా ఉండదు. ఈ ఆర్టికల్‌లో గ్రామం, మండలం, జిల్లా, పట్టణం, రాష్ట్రం, దేశం — అన్ని స్థాయిల్లోని ఎన్నికైన ప్రతినిధుల గురించి సులభంగా తెలుసుకోండి.
@@ -244,12 +245,12 @@ Telangana Panchayat Raj Act, 2018 ప్రకారం ZPTC Members ను Zill
 ## తరచుగా అడిగే ప్రశ్నలు
 
 <details class="faq-item">
-<summary>MPTC అంటే ఏమిటి?</summary>
+<summary>MPTC అంటే ఎవరు?</summary>
 MPTC అంటే Mandal Parishad Territorial Constituency. ఈ constituency నుంచి ఓటర్లు MPTC Member ను నేరుగా ఎన్నుకుంటారు.
 </details>
 
 <details class="faq-item">
-<summary>ZPTC అంటే ఏమిటి?</summary>
+<summary>ZPTC అంటే ఎవరు?</summary>
 ZPTC అంటే Zilla Parishad Territorial Constituency. ఈ constituency నుంచి ఓటర్లు ZPTC Member ను నేరుగా ఎన్నుకుంటారు.
 </details>
 
