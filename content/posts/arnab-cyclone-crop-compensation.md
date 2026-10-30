@@ -4,7 +4,7 @@ date = 2026-10-29
 description = "అర్నాబ్ (అర్నబ్/ఆర్నబ్) తుఫాను వల్ల పంట నష్టపోయిన AP రైతులకు   పంటవారీ పరిహారం, ₹6,000 తక్షణ సాయం, ఆన్‌లైన్‌లో నష్టం నమోదు చేసే విధానం ఇక్కడ చూడండి."
 author = "మధు"
 categories = ["Govt Schemes"]
-[cover] image = "images/arnab-cyclone-crop-damage-ap-farmers-compensation-online-registration.jpg"
+[cover] image = "/images/arnab-cyclone-crop-damage-ap-farmers-compensation-online-registration.jpg"
   alt = "అర్నాబ్ తుఫాను కారణంగా నీటిలో మునిగిన వరి పొలం - AP పంట నష్టం నమోదు" 
 +++
 
