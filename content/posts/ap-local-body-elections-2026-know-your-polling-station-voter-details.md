@@ -4,7 +4,7 @@ date = 2026-11-03
 description = "AP స్థానిక సంస్థల ఎన్నికల్లో మీ పేరు ఓటరు జాబితాలో ఉందో లేదో, పోలింగ్ కేంద్రం ఎక్కడో తెలుసుకోండి. APSEC Voter Portal ద్వారా Voter Details, Polling Station మరియు Voter Slip డౌన్‌లోడ్ చేసే సులభమైన విధానం."
 author = "మధు"
 categories = ["News"]
-tags = ["AP Local Body Elections 2026", "Know Your Polling Station", "AP Voter List 2026", "APSEC Voter Portal", "Download Voter Slip", "AP Municipal Elections", "MPTC ZPTC Elections", "Gram Panchayat Elections"]
+
 [cover]
   image = "images/ap-local-body-elections-know-your-polling-station-voter-details.jpg"
   alt = "AP Local Body Elections 2026 - Know Your Polling Station, Voter Details and Download Voter Slip"
