@@ -73,7 +73,7 @@ categories = ["Govt Schemes"]
       Telegram Channel
     </a>
   </div>
-  <p class="sub-text">తాజా Government Schemes, Farmer Updates & Current Affairs కోసం ఫాలో అవ్వండి</p>
+  <p class="sub-text">తాజా Government Schemes & Farmer Updates కోసం ఫాలో అవ్వండి</p>
 </div>
 
 ## డబ్బు జమ కాకపోవడానికి కారణాలు – పరిష్కారాలు
