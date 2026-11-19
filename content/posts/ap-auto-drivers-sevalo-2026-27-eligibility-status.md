@@ -6,7 +6,7 @@ description = "ఆటో డ్రైవర్ల సేవలో 2026-27: ₹23
 author = "మధు"
 categories = ["Govt Schemes"]
 [cover]
-  image = "images/ap-auto-drivers-sevalo-2026-27.webp"
+  image = "images/ap-auto-drivers-sevalo-2026-27.jpg"
   alt = "ఆటో డ్రైవర్ల సేవలో 2026-27 ₹15,000 ఆర్థిక సాయం, అర్హతలు, స్టేటస్ చెక్ - AP ఆటో డ్రైవర్లు"
 +++
 
