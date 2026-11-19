@@ -142,7 +142,8 @@ categories = ["Govt Schemes"]
 ఇది గత సీజన్‌లో ఉన్న పద్ధతి. 2026-27 సీజన్ మొదలైనప్పుడు పోర్టల్‌లో ఆ సంవత్సరం ఆప్షన్ కనిపిస్తుంది.
 
 <ol class="steps">
-<li><strong>పోర్టల్ తెరవండి:</strong> ఆంధ్రప్రదేశ్ GSWS NBM పోర్టల్‌లోని <a href="[https://gsws-nbm.ap.gov.in/NBM/#!/ApplicationStatusCheckP](https://bm-sgsw.ap.gov.in/BM/Applnstatus)" target="_blank" rel="noopener">అప్లికేషన్ స్టేటస్ పేజీ</a> కి వెళ్లండి.</li>
+<li><strong>పోర్టల్ తెరవండి:</strong> ఆంధ్రప్రదేశ్ GSWS NBM పోర్టల్‌లోని <a href="https://bm-sgsw.ap.gov.in/BM/Applnstatus" target="_blank" rel="noopener">అప్లికేషన్ స్టేటస్ పేజీ</a> కి వెళ్లండి.</li>
+
 <li><strong>పథకం ఎంచుకోండి:</strong> స్కీమ్ పేరులో "Auto Driver Sevalo" ఎంచుకుని, సంవత్సరం ఎంచుకోండి.</li>
 <li><strong>ఆధార్ నమోదు:</strong> ఆధార్ నంబర్, క్యాప్చా ఇచ్చి "Get OTP" నొక్కండి.</li>
 <li><strong>OTP ధృవీకరించండి:</strong> ఆధార్‌కు లింక్ అయిన మొబైల్‌కు వచ్చిన OTP ఎంటర్ చేసి "Verify" చేయండి.</li>
